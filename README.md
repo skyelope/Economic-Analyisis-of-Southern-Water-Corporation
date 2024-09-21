@@ -14,3 +14,11 @@ I analyzed how economic factors impacted the Southern Water Corp business in a h
  3) What-If Analysis – There is an ongoing consensus within the team that the best time for SWC to perform a major desalination water outage is in the first quarter of the year. However, this hypothesis needs to be tested and validated to see if the first quarter is truly the best – or whether there exist more desirable periods to perform the major desalination water outage.
 Ultimately, I unveiled an economic analysis of the Southern Water Corp, measuring elasticity analysis between soft and hard water products followed by a cost-effectiveness evaluation for each desalination plant and identified the best periods to perform a major outage.
 
+#### Skills
+- Microsoft Excel
+- Price Elasticity
+- Economic Theory of Demand and Supply
+- Critical Thinking
+- Power BI
+- Dashboards
+
